@@ -1,0 +1,13 @@
+showdate
+a=5
+b=a*2/3
+@b
+daca a<2 atunci b=a+2 else b=a^3 end
+c=5^2/25
+@c
+c = !10
+@c
+c cmmdc 8
+get ascii(5)
+++ascii
+;
