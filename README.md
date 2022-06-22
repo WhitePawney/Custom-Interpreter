@@ -7,4 +7,6 @@ How to compile and run the interpreter:
 3)Compile the C files > gcc -o exec.exe lex.yy.c y.tab.c
 4)Run the exec.exe file 
 
+The inp.txt file is an example of input commands file that the interpreter can run.
+
 "@" character is used as a printf();
